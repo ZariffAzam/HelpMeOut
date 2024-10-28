@@ -7,3 +7,4 @@
  6. remove fan
 
 This workshop has taught me how to properly handle a pc and gave better insight on how each component works
+![image](https://github.com/user-attachments/assets/606e1764-aa6f-4989-b014-368c4f75c97e)
